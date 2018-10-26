@@ -1,0 +1,81 @@
+body{
+  background: #a4bee8;
+  color: black;
+  font-size: 16px;
+  font-family: 'Rosario', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+}
+h1{
+  font-family: 'Oswald', sans-serif;
+  color: #2c3038;
+  font-weight: bolder;
+  font-size: 50px;
+}
+h2 {
+  font-family: 'Krub', sans-serif;
+  color: #2c3038;
+  font-weight: bolder;
+  font-size: 28px;
+}
+a {
+  color: white;
+}
+.familia {
+	width: 80px;
+}
+#Upper-banner {
+	text-align: left;
+	width: 50px;
+}
+#Airplane {
+	width: 120px;
+}
+#banner{
+  text-align: center;
+  background-image: url("https://picsum.photos/1300/600");
+  background-size: cover;
+  padding: 100px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+.container{
+text-align: center;
+}
+.padding-items{
+	padding: 80px;
+}
+strong{
+	font-weight: 800;
+	font-size: 17px;
+}
+.redes-sociales{
+	width: 100px;
+}
+
